@@ -13,7 +13,7 @@ const Navbar = () => {
       <div
         className={cn(
           "z-50 bg-background  mx-auto fixed top-0 flex items-center w-full py-6 px-8 justify-between",
-          scrolled && "border-b bg-gray-500 dark:bg-black   shadow-sm"
+          scrolled && "border-b bg-slate-200 dark:bg-black   shadow-sm"
         )}
       >
         <div className=" container mx-auto pl-0 md:pl-16">
