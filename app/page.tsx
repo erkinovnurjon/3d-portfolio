@@ -1,8 +1,11 @@
+import Hero from '@/components/shared/hero'
 import React from 'react'
 
 const Page = () => {
   return (
-    <div>Page</div>
+    <div>
+      <Hero />
+    </div>
   )
 }
 
